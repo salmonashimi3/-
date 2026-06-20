@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/most-wanted-3d.html" }
+  ]
+}
